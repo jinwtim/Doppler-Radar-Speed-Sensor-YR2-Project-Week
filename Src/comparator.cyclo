@@ -1,0 +1,8 @@
+../Core/Src/comparator.c:34:6:Comparator_Init_EdgeCounting	1
+../Core/Src/comparator.c:53:6:Comparator_Update_EdgeCount	3
+../Core/Src/comparator.c:74:9:Comparator_Calculate_Frequency	2
+../Core/Src/comparator.c:106:7:Comparator_Calculate_Speed	1
+../Core/Src/comparator.c:125:7:Comparator_Get_Frequency	1
+../Core/Src/comparator.c:134:7:Comparator_Get_Speed	1
+../Core/Src/comparator.c:143:10:Comparator_Get_EdgeCount	1
+../Core/Src/comparator.c:152:9:Comparator_Get_SamplingProgress	2
