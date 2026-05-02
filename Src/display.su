@@ -1,4 +1,0 @@
-../Core/Src/display.c:33:11:Display_GetUnit	4	static
-../Core/Src/display.c:38:6:Display_Init	48	static
-../Core/Src/display.c:48:6:Display_Update	56	static
-../Core/Src/display.c:105:19:Read_Keypad_Button	16	static

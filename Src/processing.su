@@ -1,2 +1,0 @@
-../Core/Src/processing.c:31:8:Processing_Init	8	static
-../Core/Src/processing.c:45:7:Processing_Calculate_FFT	40	static
